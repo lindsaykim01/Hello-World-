@@ -1,0 +1,13 @@
+html {
+    font-size: 30px;
+}
+
+body{
+    padding: 1rem;
+    background-color: black;
+    color: rgb(190, 196, 252);
+}
+
+.hello {
+    padding: 0.5rem;
+}
